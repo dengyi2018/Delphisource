@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.952,=E:\DelphiWorkSpace\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.108,E:\Deng_Work\delphi\Practice\ini\Unit1.dfm=E:\DelphiWorkSpace\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.108,E:\Deng_Work\delphi\Practice\ini\Unit1.pas=E:\DelphiWorkSpace\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.329,E:\Deng_Work\delphi\Practice\ini\Project1.dproj=E:\DelphiWorkSpace\Project1.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.215,=E:\DelphiWorkSpace\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.345,=E:\DelphiWorkSpace\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
